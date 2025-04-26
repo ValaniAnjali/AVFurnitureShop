@@ -10,6 +10,8 @@ Admins can add new furniture products.
 
 Users can view all available furniture products.
 
+new register can signup, signin and can use website.
+
 🚀 Tech Stack
 Frontend: React.js
 
