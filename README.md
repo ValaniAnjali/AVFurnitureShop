@@ -20,3 +20,6 @@ Backend: Node.js + Express.js
 Database: MongoDB
 
 API Testing: Postman (for backend testing)
+
+
+![avfurniturestorethumbnail](https://github.com/user-attachments/assets/66ef688e-86b9-4af7-91fd-7e97b6aa97e7)
